@@ -1,0 +1,74 @@
+1. VPN Used
+Service: VeePN (Chrome Extension)
+
+Type: Free VPN extension
+
+2. Setup Steps
+Choose VPN Service:
+
+Selected VeePN, a free Chrome extension VPN.
+
+Download & Install:
+
+Installed VeePN from Chrome Web Store.
+
+Connect to VPN Server:
+
+Connected to Netherlands server (Haarlem).
+
+Verify IP Change:
+
+Checked IP using whatismyipaddress.com.
+
+Before VPN:
+
+IP: 42.104.217.229
+
+Location: Chinchvad, Maharashtra, India
+
+ISP: Vodafone Idea Ltd
+
+After VPN Connection:
+
+IP: 51.15.22.15
+
+Location: Haarlem, Noord-Holland, Netherlands
+
+ISP: Scaleway (VPN Server)
+
+Browse Website:
+
+Browsed websites successfully to confirm encrypted traffic and new IP.
+
+Disconnect VPN & Compare:
+
+Disconnected VPN and checked IP reverted to original.
+
+After Disconnecting:
+
+IP: 42.104.217.229
+
+Observed slightly faster browsing speed without VPN.
+
+3. VPN Encryption & Privacy Features
+Feature	Explanation
+Encryption:-	VPN encrypts data using strong ciphers (eg. AES-256) to prevent interception.
+IP Masking:-	Hides real IP address, replacing with VPN server IP for anonymity.
+No-Log Policy:-	Good VPNs do not store browsing logs. Free VPNs may log minimal data.
+Kill Switch:-	Disconnects internet if VPN connection drops to prevent data leaks (premium feature).
+
+4. Benefits of VPN
+   Hides real IP and location
+   Encrypts all internet traffic
+   Bypasses geo-blocks for websites and content
+   Protects privacy on public WiFi
+
+5. Limitations of VPN
+ Free VPNs may log data or show ads
+ Reduced internet speed due to encryption
+ Not fully anonymous (VPN provider knows your IP)
+ Some websites block VPN IP addresses
+
+7. Final Summary
+ Using VPNs like VeePN masks your IP and encrypts traffic for privacy, with minor speed trade-offs and dependence on VPN provider trust.
+
